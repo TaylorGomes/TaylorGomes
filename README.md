@@ -1,7 +1,6 @@
 ### hi! Taylor Here 🚀
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=TaylorGomes&repo=GabrielFerretto&countColorcountColor)
-<br/>
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaylorGomes&show_icons=true&theme=tokyonight"/>
@@ -28,6 +27,8 @@
 <img align="center" alt="Taylor-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="center" alt="Taylor-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>  
 
+  ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=TaylorGomes&repo=GabrielFerretto&countColorcountColor)
+<br/>
 
 
 </div>
